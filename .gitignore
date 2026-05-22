@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.local
+*.jks
+*.p8
+*.p12
+*.key
+google-services-key.json
+
+# Android build outputs
+android-native/.gradle/
+android-native/build/
+android-native/app/build/
+android-native/local.properties
+android-native/.kotlin/
+android-native/.cxx/
+android-native/.idea/
+android-native/*.iml
+
+# Server
+server/node_modules/
+
+# Misc
+*.log
+*.orig
+.DS_Store
+Thumbs.db

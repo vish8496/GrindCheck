@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GrindCheck</string>
+    <string name="camera_permission_rationale">GrindCheck needs camera access to track your form in real time.</string>
+</resources>
